@@ -110,3 +110,19 @@ img {
   margin-left: 163px;
   padding-top: 25px;
 }
+.header{
+  font-weight: normal;
+  font-size: 45px;
+  margin-bottom: 9px;
+  line-height: 1em;
+  font-family:"Impact, fanatsy";
+}
+.header2{
+  font-size:130px;
+  color:black;
+  font-family:"Impact, fantasy";
+
+}
+.p2{
+  
+}
